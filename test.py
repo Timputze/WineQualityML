@@ -31,7 +31,7 @@ warnings.filterwarnings("ignore")
 # ### Loading Dataset
 
 # Load the data from a file (e.g., CSV)
-data = pd.read_csv(r"C:\Users\Tim\Downloads\Wine Quality Prediction Model Modified\WineQuality.csv")
+data = pd.read_csv(r"C:path")
 
 # Display the first few rows of the data
 print("First we have to load the data and examine it:")
